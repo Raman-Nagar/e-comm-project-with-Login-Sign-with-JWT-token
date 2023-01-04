@@ -1,0 +1,47 @@
+.border {
+    width: 500px;
+    border-radius: 15px;
+}
+.hstyle {
+    font-size: 65px;
+    font-weight: bold;
+}
+.d-flex {
+    justify-content:space-evenly;
+}
+.input1 {
+    margin: 4px 0px;
+    width: 220px;
+    height: 40px;
+    border-radius: 5px;
+
+}
+.input2 {
+    margin: 4px 0px;
+    width: 450px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+.input3 {
+    margin: 4px 0px;
+    width: 130px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.error {
+    border: 1px solid red;
+
+}
+.succes {
+    border: 1px solid green;
+
+}
+a{
+    text-decoration: none;
+}
+.b1 {
+    background-color: green;
+    width: 150px;
+}
